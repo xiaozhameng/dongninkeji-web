@@ -196,6 +196,17 @@ a {
   line-height: 76px;
   margin: 20px 0;
 }
+.title-policy {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../images/title_policy.png");
+  width: 587px;
+  height: 76px;
+  min-height: 76px;
+  background-size: 100%;
+  line-height: 76px;
+  margin: 20px 0;
+}
 .intro .content {
   position: relative;
   font-size: 22px;
